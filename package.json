@@ -1,0 +1,14 @@
+{
+  "name": "@cloudstek/yarn-audit-junit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@jsonlines/core": "^1.0.2",
+    "xmlbuilder2": "^3.0.2"
+  },
+  "bin": {
+    "yarn-audit-junit": "./index.js"
+  }
+}
